@@ -14,13 +14,14 @@
 
 html {
 
-  
-
-}
+  }
 
 body {
 
-  font-family: "roboto",
+  font-family: "roboto";
+
+
+  background-color: rgb(9, 52, 19);
 
 }
 
@@ -71,7 +72,7 @@ nav a {
 
   color: rgb(255, 255, 255);
 
-  text-decoration: none ;
+  text-decoration: rgb(255, 255, 255) ;
 
 }
 
@@ -87,7 +88,7 @@ nav img {
 
 font-size: 24px;  
 
-font-family: Verdana, Geneva, Tahoma, block;
+font-family: roboto, Geneva, Tahoma,;
 
 list-style-type: circle;
 
@@ -101,6 +102,6 @@ list-style-type: circle;
 
 font-size: 24px;  
 
-font-family: Verdana, Geneva, Tahoma, block;
+font-family: roboto, Geneva, Tahoma,;
 
 }
